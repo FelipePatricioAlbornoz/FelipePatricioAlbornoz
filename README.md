@@ -1,31 +1,68 @@
-## Oi, eu sou Felipe
+# Oi, eu sou Felipe
 
-### Linguagens de programação
+##  Linguagens de programação
 
-- Eu sei/usando
+###  Eu sei / usando
 
+<p>
+  <a href="https://developer.mozilla.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  </a>
+</p>
 
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
+###  Aprendendo
 
-- Aprendendo
+<p>
+  <a href="https://developer.mozilla.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  </a>
+</p>
 
+---
 
-| [<img src="https://raw.githubusercontent.com" alt="js logo" width="24">](https://developer.mozilla.org) | [<img src="https://raw.githubusercontent.com" alt="ts logo" width="24">](https://www.typescriptlang.org) |  |
-|---|---|---|
+##  Ferramentas
 
-Estoy usando Zed, Arch linux, GNU nano y git y estoy aprendiendo Neovim y git
+###  Eu sei / usando
 
-### Ferramentas
+<p>
+  <a href="https://zed.dev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  </a>
+  <a href="https://archlinux.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40"/>
+  </a>
+  <a href="https://www.nano-editor.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  </a>
+  <a href="https://git-scm.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  </a>
+</p>
 
-- Eu sei/usando
+### Aprendendo
 
+<p>
+  <a href="https://neovim.io">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40"/>
+  </a>
+  <a href="https://git-scm.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  </a>
+</p>
 
-| [<img src="https://raw.githubusercontent.com" alt="zed logo" width="24">](https://zed.dev) | [<img src="https://raw.githubusercontent.com" alt="arch logo" width="24">](https://archlinux.org) | [<img src="https://raw.githubusercontent.com" alt="nano logo" width="24">](https://www.nano-editor.org) | [<img src="https://raw.githubusercontent.com" alt="git logo" width="24">](https://git-scm.com) |   |   |
-|---|---|---|---|---|---|
+---
 
-- Aprendendo
+##  Sobre mim
 
+Estou usando **Zed, Arch Linux, GNU nano e Git**  
+Estou aprendendo **Neovim e aprofundando Git**
 
-| [<img src="https://raw.githubusercontent.com" alt="neovim logo" width="24">](https://neovim.io) | [<img src="https://raw.githubusercontent.com" alt="git logo" width="24">](https://git-scm.com) |  |
-|---|---|---|
+---
+
+⭐ Sempre aprendendo e melhorando.
