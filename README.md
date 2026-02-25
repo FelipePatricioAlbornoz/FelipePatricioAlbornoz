@@ -11,7 +11,7 @@
 - Aprendendo
 
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  |
+| [<img src="https://raw.githubusercontent.com" alt="js logo" width="24">](https://developer.mozilla.org) | [<img src="https://raw.githubusercontent.com" alt="ts logo" width="24">](https://www.typescriptlang.org) |  |
 |---|---|---|
 
 Estoy usando Zed, Arch linux, GNU nano y git y estoy aprendiendo Neovim y git
@@ -21,7 +21,7 @@ Estoy usando Zed, Arch linux, GNU nano y git y estoy aprendiendo Neovim y git
 - Eu sei/usando
 
 
-| [<img src="https://raw.githubusercontent.com" alt="zed logo" width="24">](https://zed.dev) | [<img src="https://upload.wikimedia.org" alt="arch logo" width="24">](https://archlinux.org) | [<img src="https://www.gnu.org" alt="nano logo" width="24">](https://www.nano-editor.org) | [<img src="https://raw.githubusercontent.com" alt="git logo" width="24">](https://git-scm.com) |  |  |
+| [<img src="https://raw.githubusercontent.com" alt="zed logo" width="24">](https://zed.dev) | [<img src="https://raw.githubusercontent.com" alt="arch logo" width="24">](https://archlinux.org) | [<img src="https://raw.githubusercontent.com" alt="nano logo" width="24">](https://www.nano-editor.org) | [<img src="https://raw.githubusercontent.com" alt="git logo" width="24">](https://git-scm.com) |   |   |
 |---|---|---|---|---|---|
 
 - Aprendendo
