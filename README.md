@@ -2,6 +2,7 @@
 
 <!--
 **FelipePatricioAlbornoz/FelipePatricioAlbornoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="219" height="230" alt="image" src="https://github.com/user-attachments/assets/1e32ebbe-7657-47bd-899c-92f540493143" />
 
 Here are some ideas to get you started:
 
