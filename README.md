@@ -30,12 +30,24 @@ Por enquanto, não sou expert nem especialista em nada 😞
 **Eu sei / usando**
 
 <p align="left">
-  <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/></a>
-  <a href="https://www.microsoft.com/pt-br/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="40" title="Windows 11"/></a>
-  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/></a>
-  <a href="https://zed.dev"><img src="assets/zed.png" width="40" title="Zed"/></a>
-  <a href="https://endeavouros.com"><img src="assets/endeavouros.png" width="40" title="EndeavourOS"/></a>
-  <a href="https://www.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/></a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  </a>
+  <a href="https://www.microsoft.com/pt-br/windows">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="40"title="Windows 11"/>
+  </a>
+  <a href="https://git-scm.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  </a>
+  <a href="https://zed.dev">
+    <img src="assets/zed.png" width="40" title="Zed"/>
+  </a>
+  <a href="https://endeavouros.com">
+    <img src="assets/endeavouros.png" width="40" title="EndeavourOS"/>
+  </a>
+  <a href="https://www.kernel.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  </a>
 </p>
 
 **Aprendendo**
